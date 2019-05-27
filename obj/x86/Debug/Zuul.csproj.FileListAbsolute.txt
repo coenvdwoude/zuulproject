@@ -1,0 +1,6 @@
+C:\Users\coenv_06w281p\Documents\Users\ctvdw\OneDrive\Documents\Schooljaar2018-2019\Periode04\src\src\zuul-cs\bin\Debug\ConsoleApplication.exe
+C:\Users\coenv_06w281p\Documents\Users\ctvdw\OneDrive\Documents\Schooljaar2018-2019\Periode04\src\src\zuul-cs\bin\Debug\ConsoleApplication.pdb
+C:\Users\coenv_06w281p\Documents\Users\ctvdw\OneDrive\Documents\Schooljaar2018-2019\Periode04\src\src\zuul-cs\obj\x86\Debug\Zuul.csprojAssemblyReference.cache
+C:\Users\coenv_06w281p\Documents\Users\ctvdw\OneDrive\Documents\Schooljaar2018-2019\Periode04\src\src\zuul-cs\obj\x86\Debug\Zuul.csproj.CoreCompileInputs.cache
+C:\Users\coenv_06w281p\Documents\Users\ctvdw\OneDrive\Documents\Schooljaar2018-2019\Periode04\src\src\zuul-cs\obj\x86\Debug\ConsoleApplication.exe
+C:\Users\coenv_06w281p\Documents\Users\ctvdw\OneDrive\Documents\Schooljaar2018-2019\Periode04\src\src\zuul-cs\obj\x86\Debug\ConsoleApplication.pdb

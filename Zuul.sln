@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zuul", "Zuul.csproj", "{F3534B63-CC66-4E56-91E3-FCA73FFB0CE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3534B63-CC66-4E56-91E3-FCA73FFB0CE6}.Debug|x86.ActiveCfg = Debug|x86
+		{F3534B63-CC66-4E56-91E3-FCA73FFB0CE6}.Debug|x86.Build.0 = Debug|x86
+		{F3534B63-CC66-4E56-91E3-FCA73FFB0CE6}.Release|x86.ActiveCfg = Release|x86
+		{F3534B63-CC66-4E56-91E3-FCA73FFB0CE6}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E5DEA34-3166-42D4-8BD6-E1D89A14F937}
+	EndGlobalSection
+EndGlobal
