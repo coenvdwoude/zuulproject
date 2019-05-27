@@ -102,7 +102,7 @@ namespace ZuulCS
         {
             Console.WriteLine();
             Console.WriteLine("Welcome to Zuul!");
-            Console.WriteLine("Zuul is a new, incredibly boring adventure game.");
+            Console.WriteLine("Zuul is a , incredibly boring adventure game.");
             Console.WriteLine("Type 'help' if you need help.");
             Console.WriteLine();
             Console.WriteLine(player.getCurrentRoom().getLongDescription());
